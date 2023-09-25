@@ -2,7 +2,7 @@ import Home from './components/Home'
 import User from './components/User'
 import Product from './components/Products'
 import Navbar from './components/Navbar'
-import './App.css'
+
 import { createBrowserRouter,RouterProvider,Outlet } from 'react-router-dom'
 import Footer from './components/Footer'
 import Menu from './components/Menu'
