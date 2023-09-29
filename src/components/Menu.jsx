@@ -2,7 +2,12 @@
 
 const Menu = () => {
   return (
-    <div>Menu</div>
+    <div className="Menu">
+      <div className="items">
+        <span className="title">Essentials</span>
+        
+      </div>
+    </div>
   )
 }
 
